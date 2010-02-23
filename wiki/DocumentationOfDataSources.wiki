@@ -19,7 +19,11 @@ The Species Population Flyways maps were provided by Birdlife International (Mar
 
 === IBA qualifying populations and proportion of flyway population ===
 
+The following data sources were used to derive the population estimates for sites:
 
+  * Waterbird Population Estimates 4 (from 'WPE4 with flyway codes_jun09.xls' - Szabolcs Nagy on 8/1/10)
+  * IBA qualifying populations and corresponding flyways (from 'IBA_POP.dbf' - Szabolcs Nagy on 27/1/10)
+  *   
  
 
 Add your content here.  Format your content with:
