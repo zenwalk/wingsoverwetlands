@@ -17,6 +17,8 @@ The Species Distribution maps were provided by Wetlands International and have b
 
 The Species Population Flyways maps were provided by Birdlife International (Mark Balman on 21/1/2010).
 
+=== IBA qualifying populations and proportion of flyway population ===
+
 
  
 
