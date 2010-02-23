@@ -2,12 +2,14 @@
 
 = Overview of the Web Data Services =
 
-Add your content here.
+The Critical Site Network tool displays a range of information about migratory birds and the sites they use using a set of maps and other non-spatial data that have been developed at UNEP-WCMC. The non-spatial data includes information about species, sites and a number of other themes. These non-spatial data are available in the CSN tool itself but they are also available separately through a number of Web Data Services. These services allow other software tools and clients, e.g. Microsoft Excel, to access and use the data in their own environment and allow the user to customise how they work with and summarise the data.
 
+== Location of the Web Data Services ==
 
-= Details =
+The Web Data Services are available through the following url, which shows the full range of services and methods that are available. 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://dev.unep-wcmc.org/WingsOverWetlandsServices/SpeciesService.asmx
+
+== Using Web Data Services == 
+
+Unlike the Web Map Services, the Web Data Services are less accessible to the non-developer and these services are intended to be used by developers. However, you can import and use the data from these services by following the following steps:
