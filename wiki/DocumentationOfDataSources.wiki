@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Document describing the data sources that have been used in the CSN tool and the processing steps that were used to produce the maps.
 
 = Documentation of Data Sources use in the CSN Tool =
 
