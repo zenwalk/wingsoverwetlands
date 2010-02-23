@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+
+= Documentation of Data Sources use in the CSN Tool =
+
+This document describes the data sources that have been used in the Critical Sites Network Tool and the steps that were taken to migrate the data into the relevant maps that are used in the CSN tool. It was written by Andrew Cottam at UNEP-WCMC.
+
+
+== Overview of Data Sources used ==
+
+There are a number of data sources that have been used in the CSN tool and these are described in the following sections. A brief description of the data is given and then any additional processing steps that were done to be able to show the data in the CSN tool. For all data sources, the datasets were imported into a single ESRI File Geodatabase and projected into Web Mercator. This Geodatabase is used to create all of the maps on the CSN tool.
+
+=== Species Distribution Maps ===
+
+The Species Distribution maps were provided by Wetlands International and have been published in the Waterbird Population Estimates publications. The version that is in the CSN tool dates from 2008. 
+
+=== Species Population Flyways ===
+
+The Species Population Flyways maps were provided by Birdlife International (Mark Balman on 21/1/2010).
+
+
+ 
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
