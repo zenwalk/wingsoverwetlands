@@ -13,3 +13,8 @@ http://dev.unep-wcmc.org/WingsOverWetlandsServices/SpeciesService.asmx
 == Using Web Data Services == 
 
 Unlike the Web Map Services, the Web Data Services are less accessible to the non-developer and these services are intended to be used by developers. However, you can import and use the data from these services by following the following steps:
+
+1. Open Excel and click on the Data tab
+2. Click on From Web and enter the url of the method (e.g. http://dev.unep-wcmc.org/WingsOverWetlandsServices/SpeciesService.asmx/GetSpecies)
+3. Click Go and when the data is shown click on the arrow to select the data
+4. Click Import and the data will be imported into Excel
