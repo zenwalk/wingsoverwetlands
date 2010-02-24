@@ -7,7 +7,7 @@ This document describes the data sources that have been used in the Critical Sit
 
 == Overview of Data Sources used ==
 
-There are a number of data sources that have been used in the CSN tool and these are described in the following sections. A brief description of the data is given and then any additional processing steps that were done to be able to show the data in the CSN tool. For all data sources, the datasets were imported into a single ESRI File Geodatabase and projected into Web Mercator. This Geodatabase is used to create all of the maps on the CSN tool.
+There are a number of data sources that have been used in the CSN tool and these are described in the following sections. A brief description of the data is given and then any additional processing steps that were done to be able to show the data in the CSN tool. For all spatial data sources, the datasets were imported into a single ESRI File Geodatabase and projected into Web Mercator. This Geodatabase is used to create all of the maps on the CSN tool. The non-spatial data was imported into Access and for processing and then into Microsoft SQL Server 2008 for delivery into the CSN tool.
 
 === Species Distribution Maps ===
 
@@ -23,9 +23,19 @@ The following data sources were used to derive the population estimates for site
 
   # Waterbird Population Estimates 4 (from 'WPE4 with flyway codes_jun09.xls' - Szabolcs Nagy on 8/1/10)
   # IBA qualifying populations and corresponding flyways (from 'IBA_POP.dbf' - Szabolcs Nagy on 27/1/10)
-  #    
+  # IBA List (from 'IBA list.xls' - Szabolcs Nagy on 27/1/10)
  
+==== 1. WPE4 processing ===
 
+  # Imported 'WPE4 with flyway codes_jun09.xls' into Access as 'Data table'
+  #
+
+==== 2. IBA Qualifying Populations processing ====
+  # Imported 'IBA_POP.dbf' into Access as 'IBA_POP'
+  # 
+
+==== 3. IBA List ====
+  # Imported 'IBA list.xls' into Access as 'Site list'
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
