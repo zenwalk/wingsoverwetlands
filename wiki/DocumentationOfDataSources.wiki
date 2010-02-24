@@ -25,18 +25,11 @@ The following data sources were used to derive the population estimates for site
   # IBA qualifying populations and corresponding flyways (from 'IBA_POP.dbf' - Szabolcs Nagy on 27/1/10)
   # IBA List (from 'IBA list.xls' - Szabolcs Nagy on 27/1/10)
  
-==== 1. WPE4 processing ===
+Each of these datasets was imported into the Access 2003 database 'CSN_Tool_Data.mdb' and the following processing steps were run:
 
-  # Imported 'WPE4 with flyway codes_jun09.xls' into Access as 'Data table'
-  #
-
-==== 2. IBA Qualifying Populations processing ====
-  # Imported 'IBA_POP.dbf' into Access as 'IBA_POP'
-  # 
-
-==== 3. IBA List ====
-  # Imported 'IBA list.xls' into Access as 'Site list'
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  # 'WPE4 with flyway codes_jun09.xls' imported as 'Data table'
+  # Changed SpcRecID data type to Number
+  # 'IBA_POP.dbf' imported as 'IBA_POP'
+  # 'IBA list.xls' imported as 'Site list'
+  # Query '_Site Populations and Percentages' run to produce the CSN tool data
+  # 'Site Populations and Percentages' table imported into SQL Server 2008
