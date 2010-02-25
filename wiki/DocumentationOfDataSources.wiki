@@ -15,7 +15,7 @@ Species information was obtained by joining these datasets together:
 
   # Existing species list from the CSN tool version 1
   # French names from 'IWC Species codes with BL Species RecIDs.xls' (Szabolcs Nagy 27/1/10)
-  # Species IUCN categories from WBDB ('SpcRedList' from Ian Fisher on 12/1/2010) 
+  # Species IUCN categories from WBDB (*'SpcRedList*' from Ian Fisher on 12/1/2010) 
 
 === Species Distribution Maps ===
 
