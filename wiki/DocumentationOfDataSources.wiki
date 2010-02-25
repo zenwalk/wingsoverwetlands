@@ -13,8 +13,9 @@ There are a number of data sources that have been used in the CSN tool and these
 
 Species information was obtained by joining these datasets together:
 
-  # 
-IWC Species codes with BL Species RecIDsxisting species list from the CSN tool version 1 and 
+  # Existing species list from the CSN tool version 1
+  # French names from 'IWC Species codes with BL Species RecIDs.xls' (Szabolcs Nagy 27/1/10)
+  # Species IUCN categories from WBDB ('SpcRedList' from Ian Fisher on 12/1/2010) 
 
 === Species Distribution Maps ===
 
