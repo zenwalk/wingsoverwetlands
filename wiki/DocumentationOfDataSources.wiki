@@ -4,7 +4,6 @@
 
 This document describes the data sources that have been used in the Critical Sites Network Tool and the steps that were taken to migrate the data into the relevant maps that are used in the CSN tool. It was written by Andrew Cottam at UNEP-WCMC.
 
-
 == Overview of Data Sources used ==
 
 There are a number of data sources that have been used in the CSN tool and these are described in the following sections. A brief description of the data is given and then any additional processing steps that were done to be able to show the data in the CSN tool. For all spatial data sources, the datasets were imported into a single ESRI File Geodatabase and projected into Web Mercator. This Geodatabase is used to create all of the maps on the CSN tool. The non-spatial data was imported into Access and for processing and then into Microsoft SQL Server 2008 for delivery into the CSN tool.
@@ -41,3 +40,12 @@ Each of these datasets was imported into the Access 2003 database 'CSN_Tool_Data
   # 'IBA list.xls' imported as 'Site list'
   # Query '_Site Populations and Percentages' run to produce the CSN tool data
   # 'Site Populations and Percentages' table imported into SQL Server 2008
+
+=== IBA List ===
+
+The IBA List was supplied by Wetlands International (from 'IBA List.xls' - Szabolcs Nagy on 27/1/10).
+
+  # All Romanian sites were removed because of character set issues.
+  # CombSitRecIDText field renamed to SiteRecID
+  # IBA Polygons exported from shapefile and IBA records with polygons were flagged
+  # Data imported into an SQL Server 2008.
