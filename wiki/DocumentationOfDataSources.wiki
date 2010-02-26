@@ -55,4 +55,4 @@ IBA spatial data was supplied by Wetlands International (from 'AEWA - New IBA Po
   * There are some features in the polygon feature class that have no names! 
   * Extended characters have not been captured properly - there are site names with weird characters in, e.g. 22155 is '“Paradise Valley” mountain plateau'
   * Many of the IBAs have an area of 0
-  * There are IBAs in the IBA List that are not present in the spatial data, e.g. Gibraltar Point (file:///Users/andrewcottam/Documents/Flex%20Builder%203/Workspaces/Wings%20Over%20Wetlands/Critical%20Sites%20Network%20Tool/bin-debug/Default.html#app=55ec&51b9-currentState=Sites&51b9-stateID=20810)
+  * There are IBAs in the IBA List that are not present in the spatial data, e.g. Gibraltar Point (http://dev.unep-wcmc.org/WingsOverWetlands/default.html#app=55ec&51b9-currentState=Sites&51b9-stateID=20810)
