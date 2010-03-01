@@ -38,7 +38,7 @@ Each of these datasets was imported into the Access 2003 database 'CSN_Tool_Data
   # Changed SpcRecID data type to Number
   # 'IBA_POP.dbf' imported as 'IBA_POP'
   # 'IBA list.xls' imported as 'Site list'
-  # Added ISO CountryCode and HasPolygonData fields and populated them
+  # Added ISO CountryCode and HasPolygonData fields and populated them. Added indexes.
   # Query 'Site Populations and Percentages1'  and 2 run to produce the CSN tool data
   # 'Site Populations and Percentages' table imported into SQL Server 2008
 
