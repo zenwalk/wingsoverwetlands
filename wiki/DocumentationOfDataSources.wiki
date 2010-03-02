@@ -64,4 +64,4 @@ The IWC site list was supplied by Wetlands International (from 'Consolidated IWC
   
   # Query run to create table in SQL Server (_IWC List)
   # Data imported into SQL Server
-  # Spatial data created in ArcGIS from Lat/Long values and reprojected to Web Mercator
+  # Spatial data created in ArcGIS from Lat/Long values and reprojected to Web Mercator (IWC_List_Species feature class)
