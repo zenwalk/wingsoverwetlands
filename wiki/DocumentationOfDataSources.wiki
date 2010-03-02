@@ -57,3 +57,11 @@ IBA spatial data was supplied by Wetlands International (from 'AEWA - New IBA Po
   * Extended characters have not been captured properly - there are site names with weird characters in, e.g. 22155 is '“Paradise Valley” mountain plateau'
   * Many of the IBAs have an area of 0
   * There are IBAs in the IBA List that are not present in the spatial data, e.g. Gibraltar Point (http://dev.unep-wcmc.org/WingsOverWetlands/default.html#app=55ec&51b9-currentState=Sites&51b9-stateID=20810)
+
+=== IWC List ===
+
+The IWC site list was supplied by Wetlands International (from 'Consolidated IWC site codes with matching IBA Ids.xls' - Szabolcs Nagy 27/1/10)
+  
+  # Query run to create table in SQL Server (_IWC List)
+  # Data imported into SQL Server
+  # Spatial data created in ArcGIS from Lat/Long values and reprojected to Web Mercator
