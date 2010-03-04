@@ -58,6 +58,8 @@ IBA spatial data was supplied by Wetlands International (from 'AEWA - New IBA Po
   * Many of the IBAs have an area of 0
   * There are IBAs in the IBA List that are not present in the spatial data, e.g. Gibraltar Point (http://dev.unep-wcmc.org/WingsOverWetlands/default.html#app=55ec&51b9-currentState=Sites&51b9-stateID=20810)
 
+There are some issues with version control in the IBA list. For example, SiteRecID 3234 has the name 'Untere Traun' in the spatial data and 'Lower course of the Traun' in the WBDB.
+
 === IWC List ===
 
 The IWC site list was supplied by Wetlands International (from 'Consolidated IWC site codes with matching IBA Ids.xls' - Szabolcs Nagy 27/1/10)
