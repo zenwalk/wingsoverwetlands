@@ -78,3 +78,4 @@ The IWC counts were supplied by Wetlands International (from 'IWC COUNT.dbf). Th
 ==Countries==
 
 1. RUN 'COUNTRY FILTER 01.SQL' TO POPULATE THE COUNTRY TABLE 
+2. RUN 'COUNTRY FILTER 02.SQL' TO POPULATE THE IBAFILTER TABLE with the country ids
