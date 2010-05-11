@@ -71,3 +71,10 @@ The IWC site list was supplied by Wetlands International (from 'Consolidated IWC
 === IWC Counts ===
 
 The IWC counts were supplied by Wetlands International (from 'IWC COUNT.dbf). The data were reformatted to average counts for each year/species/site combination.
+
+
+= Preparation of data for the filter tables =
+
+==Countries==
+
+1. RUN 'COUNTRY FILTER 01.SQL' TO POPULATE THE COUNTRY TABLE 
