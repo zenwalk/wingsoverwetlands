@@ -77,5 +77,5 @@ The IWC counts were supplied by Wetlands International (from 'IWC COUNT.dbf). Th
 
 ==Countries==
 
-1. RUN 'COUNTRY FILTER 01.SQL' TO POPULATE THE COUNTRY TABLE 
-2. RUN 'COUNTRY FILTER 02.SQL' TO POPULATE THE IBAFILTER TABLE with the country ids
+1. Add a new field called CountryID to the CSN_IBA table and populate
+2. Create new tables COUNTRY, COUNTRY_LINK
