@@ -75,7 +75,7 @@ The IWC counts were supplied by Wetlands International (from 'IWC COUNT.dbf). Th
 
 = Preparation of data for the filter tables =
 
-==Countries==
+==Core tables==
+The filter tables use a spine of F_SPECIES, F_SPECIES_FLYWAY, F_SPECIES_FLYWAY_LINK AND F_IBA. These are all created from the CSN_* tables with queries in the e:\gisdata\WingsOverWetlands folder, named Filter*.sql.
 
-1. Add a new field called CountryID to the CSN_IBA table and populate
-2. Create new tables COUNTRY, COUNTRY_LINK
+The lookup tables and link tables that link to the core spine tables were created in the Access database SpeciesWBDBdataForAndy.mdb using the queries F*.
