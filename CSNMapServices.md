@@ -1,0 +1,15 @@
+# Overview of Web Map Services #
+
+The Critical Site Network tool displays a range of information about migratory birds and the sites they use using a set of maps that have been developed at UNEP-WCMC. These maps are available in the CSN tool itself but they are also available separately through a number of Web Mapping Services. These services allow other software tools and clients, e.g. Google Earth, to access and display the maps in their own environment and allow the user to customise how they view and combine maps.
+
+## Location of the Web Map Services ##
+
+The Web Map Services are available through the following url, which shows the full range of services that are available. This is the ArcGIS Services Directory:
+
+http://dev.unep-wcmc.org/ArcGIS/rest/services/WingsOverWetlands
+
+## Types of Web Map Services ##
+
+There are a number of different types of Web Map Services that can be used directly from the ArcGIS Services Directory. For more information on how to use them click on the Help link in the ArcGIS Services Directory.
+
+## Individual Web Map Services ##
